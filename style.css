@@ -1,0 +1,32 @@
+.searchBtn{
+    margin-top: 20px;
+    height: 40px;
+}
+
+.search_txt{
+    margin-top: 50px;
+    width: 15%;
+    height: 20px;
+    border-radius: 15px;
+    outline: none;
+    border:1px solid;
+    padding-left: 10px;
+}
+
+.browser_logo{
+    margin-top: 100px;
+}
+
+.settingBtn{
+    margin-left: 94%;
+    margin-top: 10px;
+}
+
+.search_div{
+    margin-top: 20%;
+}
+
+.test{
+    width: 700px;
+    height: 500px;
+}
